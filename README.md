@@ -4,13 +4,6 @@
 
 Real-Time Multi-Device 3D Scene Synchronization over Local Network using WebSockets
 
-## Student Details
-
-**Name:** \[Your Name]
-**Course:** \[Your Course]
-**Professor:** \[Professor's Name]
-**Submission Date:** \[Date]
-
 ## Abstract
 
 This project enhances the existing open-source implementation of synchronizing a 3D scene across multiple browser windows on the same device using localStorage. The enhancement enables real-time synchronization across **multiple devices** (e.g., laptop and mobile) on the **same local network** using **WebSocket technology**. This addresses the limitation of `localStorage` being restricted to the same browser context and expands it to real-time, bi-directional communication using a centralized server.
